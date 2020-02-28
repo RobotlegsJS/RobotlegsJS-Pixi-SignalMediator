@@ -112,7 +112,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-sourcemap-writer": "^0.1.2",
     "karma-webpack": "^4.0.2",
-    "mocha": "^7.0.1",
+    "mocha": "^7.1.0",
     "nyc": "^15.0.0",
     "pixi.js": "^4.8.9",
     "prettier": "^1.19.1",
